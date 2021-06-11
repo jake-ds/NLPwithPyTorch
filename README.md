@@ -1,5 +1,3 @@
 # NLPwithPyTorch
-[Book] Natural Language Processing with PyTorch(파이토치로 배우는 자연어 처리) 
 
-
-스터디용 Repo입니다. 
+PyTorch를 활용하여 NLP 모듈을 구현합니다. 
